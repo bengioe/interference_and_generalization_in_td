@@ -1,2 +1,3 @@
-# interference_and_generalization_in_td
+# Interference and Generalization in Temporal Difference Learning
+
 Code for Interference and Generalization in Temporal Difference Learning (ICML 2020)
